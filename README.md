@@ -85,9 +85,8 @@ This project is a web-based application for managing student information and gen
 - Database: MySQL
 
 ## **Screenshots**
-## **Screenshots**
-![Login Page Screenshot](Screenshot1.png")
-![ID Cards Page uploadi](Screenshot2.png")
+![Login Page Screenshot]("Screenshot1.png")
+![ID Cards Page uploadi]("Screenshot2.png")
 
 
 ## **Contributing**
